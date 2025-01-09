@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "block_meta.h": "c",
+        "errno.h": "c"
+    }
+}
